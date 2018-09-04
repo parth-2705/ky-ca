@@ -291,7 +291,7 @@ font-size: 1.5em;
 
 .paperball {
 	position: absolute;
-	top: 2%;
+	top: 80%;
 	left: 17%;
 	width: 8%;
 }
@@ -299,7 +299,7 @@ font-size: 1.5em;
 .glasses {
 	position: absolute;
 	top: 80%;
-	right: 15%;
+	right: 10%;
 	width: 15%;
 }
 
